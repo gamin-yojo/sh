@@ -1,5 +1,5 @@
 # abstract
-シェルの掃き溜め。
+時短のためのshell
 
 ## git_all_push.sh
 GitHubへまとめてpushする。
