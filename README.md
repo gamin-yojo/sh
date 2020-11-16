@@ -1,4 +1,4 @@
-# 概要
+# abstract
 シェルの掃き溜め。
 
 ## git_all_push.sh
